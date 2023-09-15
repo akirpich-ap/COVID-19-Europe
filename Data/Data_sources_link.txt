@@ -1,0 +1,43 @@
+
+
+COVID-19 Incidence and Mortality
+COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+https://github.com/CSSEGISandData/COVID-19
+
+
+
+Population Data
+United Nations - Population Division
+https://www.un.org/development/desa/pd/data-landing-page
+
+
+
+Bloomberg Vaccine Tracker 
+https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution
+https://github.com/BloombergGraphics/covid-vaccine-tracker-data
+
+
+Migration Data
+European Commission Knowledge Center on Migration and Demography (KCMD)
+Migration Demography Tools - Dynamic Data Hub
+https://migration-demography-tools.jrc.ec.europa.eu/data-hub/
+
+
+
+Global Change Data Lab
+The population health and socio-demographic characteristics
+https://ourworldindata.org
+
+
+
+GISAID: Global initiative on sharing all influenza data
+https://gisaid.org/
+
+
+
+
+
+
+
+
+
